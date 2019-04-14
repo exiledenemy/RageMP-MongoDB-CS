@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="Resource One" author="DK" type="script" />
+  <script src="compiled/netcoreapp2.2/resourceone.dll"/>
+</meta>
