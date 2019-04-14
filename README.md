@@ -1,9 +1,6 @@
-Intrusction for use in own project:
+# Intrusction for use:
 
 NuGet: MongoDB.Driver
 
-Add the following to the <PropertyGroup> of the .csproj file:
+Add **CopyLocalLockFileAssemblies** to **PropertyGroup** of the **.csproj** file with **true** value
 
-<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-
-This will copy the NuGet files on build
